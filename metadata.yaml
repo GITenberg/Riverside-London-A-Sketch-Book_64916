@@ -1,0 +1,34 @@
+_repo: Riverside-London-A-Sketch-Book_64916
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Woollard, Dorothy
+    aliases:
+    - Woollard, Dorothy E. G.
+    - Woollard, Dorothy Edith Griffiths
+    - Woollard, Dorothy E.G.
+    birthdate: 1886
+    deathdate: 1986
+    gutenberg_agent_id: '47818'
+    url: http://www.gutenberg.org/2009/agents/47818
+  - agent_name: Boxer, Percy Noel
+    alias: Boxer, P. N.
+    birthdate: 1886
+    deathdate: 1914
+    gutenberg_agent_id: '53094'
+    url: http://www.gutenberg.org/2009/agents/53094
+description: ''
+gutenberg_issued: '2021-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64916'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'London (England) -- Pictorial works'
+- GITenberg
+title: 'Riverside London: A Sketch-Book'
+url: http://www.gutenberg.org/ebooks/64916
