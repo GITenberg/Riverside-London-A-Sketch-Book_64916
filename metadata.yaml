@@ -17,7 +17,12 @@ contributor:
     deathdate: 1914
     gutenberg_agent_id: '53094'
     url: http://www.gutenberg.org/2009/agents/53094
+covers:
+- cover_type: archival
+  image_path: 64916-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64916#Riverside-London-A-Sketch-Book
 gutenberg_issued: '2021-03-24'
 gutenberg_type: Text
 identifiers:
